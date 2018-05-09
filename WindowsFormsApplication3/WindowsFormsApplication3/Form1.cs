@@ -15,15 +15,14 @@ namespace WindowsFormsApplication3
         public Form1()
         {
         //TODO
-        //Needs to be updated
-        //Initialize
+
             InitializeComponent();
-            //editing
+
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Hello World");
+            MessageBox.Show("Hello World..says every developer");
         }
     }
 }
